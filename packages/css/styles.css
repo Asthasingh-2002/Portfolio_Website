@@ -1069,6 +1069,7 @@ img {
 
   .home__button {
     font-size: 20px;
+    text-align: center;
   }
 
   .skills__title {
@@ -1333,4 +1334,12 @@ img {
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+.contact_me{
+  text-align:center;
+}
+.secondSection{
+  max-width: 80vw;
+  margin: auto;
+  height:80;
 }
